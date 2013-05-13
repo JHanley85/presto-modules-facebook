@@ -1,0 +1,3 @@
+[submodule "presto-modules-facebook-app"]
+	path = presto-modules-facebook-app
+	url = git@github.com:JHanley85/presto-modules-facebook-app.git
